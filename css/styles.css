@@ -24,3 +24,17 @@
   bottom: -30px;
   right: -20px;
 }
+
+.bottom {
+  float: left;
+  background-color: #025bbf;
+  height: 500px;
+  width: 250px; 
+  position: relative; 
+}
+
+.element-bottom{
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+}
