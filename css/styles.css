@@ -52,3 +52,17 @@
   right: 10px;
   top: 20px;
 }
+
+.left {
+  float: left;
+  background-color: #025bbf;;
+  height: 500px;
+  width: 250px; 
+  position: relative;
+}
+
+.element-left {
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+}
