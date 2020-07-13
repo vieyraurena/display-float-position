@@ -86,3 +86,9 @@
   clear: both;
   display: table;
 }
+
+.footer{
+  background-color: #f01e3d;
+  height: 50px;
+  width: 1000px;
+}
