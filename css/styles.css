@@ -66,3 +66,23 @@
   bottom: 10px;
   left: 10px;
 }
+
+.body{
+  float: left;
+  background-color: #017c83;
+  height: 300px;
+  width: 500px;
+}
+
+.sidebar{
+  float: left;
+  background-color: #6cc5ca;
+  height: 300px;
+  width: 500px;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
